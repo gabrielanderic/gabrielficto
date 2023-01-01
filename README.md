@@ -1,4 +1,4 @@
-### Hi there 👋
+### Gabriel Muniz S2 👋
 
 <!--
 **gabrielficto/gabrielficto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <img src="https://avatars.githubusercontent.com/u/119897742?v=4" width="180px">
+  <a href="https://beacons.ai/gabrielficto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielficto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielficto&layout=compact&langs_count=16&theme=dark"/>
+</div>
+<br>
+<center>
+</center>
