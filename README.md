@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img src="https://avatars.githubusercontent.com/u/119897742?v=4" width="180px">
-  <a href="https://beacons.ai/gabrielficto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielficto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielficto&layout=compact&langs_count=16&theme=dark"/>
+  <img src="https://redwars22.github.io/andrewnation/assets/fictoflag.jpg" width="480px">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielficto&layout=compact&langs_count=16&theme=dark"/>  
 </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielficto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
 <br>
 <center>
 </center>
