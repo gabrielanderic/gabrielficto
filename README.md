@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img src="https://redwars22.github.io/andrewnation/assets/fictoflag.jpg" width="480px">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielficto&layout=compact&langs_count=16&theme=dark"/>  
+  <img src="https://avatars.githubusercontent.com/u/119897742?v=4" width="175px"/>
+  <img src="https://user-images.githubusercontent.com/26885598/217094768-b3769a98-a44a-4b6e-9769-5b88bfbb8c43.png" width="300px"/>
 </div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielficto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
-<br>
-<center>
-</center>
+
+<div>
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+</div>
