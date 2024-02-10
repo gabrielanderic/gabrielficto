@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <div>
   <img src="https://avatars.githubusercontent.com/u/119897742?v=4" width="175px"/>
-  <img src="https://user-images.githubusercontent.com/26885598/217094768-b3769a98-a44a-4b6e-9769-5b88bfbb8c43.png" width="300px"/>
 </div>
 
 Hi, it's me, Gabriel, a ficto boy who is the boyfriend of an amazing dude named Eric. I mostly prefer low level programming languages and hardware-related things.
